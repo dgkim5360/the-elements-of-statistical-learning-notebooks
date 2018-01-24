@@ -1,23 +1,21 @@
 [[source]]
 
+url = "https://pypi.python.org/simple"
 verify_ssl = true
 name = "pypi"
-url = "https://pypi.python.org/simple"
 
 
-[requires]
+[packages]
 
-python_version = "3.5"
+numpy = "*"
+scipy = "*"
+pandas = "*"
+matplotlib = "*"
+jupyter = "*"
+ipython = "*"
 
 
 [dev-packages]
 
 
 
-[packages]
-
-scipy = "*"
-pandas = "*"
-matplotlib = "*"
-ipython = "*"
-jupyter = "*"
