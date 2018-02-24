@@ -17,4 +17,3 @@ ipython = "*"
 
 [dev-packages]
 
-nbmelt = "*"
