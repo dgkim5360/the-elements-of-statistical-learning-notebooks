@@ -1,3 +1,16 @@
+================================================================
+Jupyter Notebooks for the Elements of Statistical Learning (WIP)
+================================================================
+
+It aims to summarize and reproduce the textbook "The Elements of Statistical Learning" 2/E by Hastie, Tibshirani, and Friedman
+
+Currently working the early chapters, I try to implement without frameworks like scikit-learn for showing the algorithms that the textbook introduces to me.
+
+Also starting with the neural networks, I decided to use PyTorch_ which seems less magical (They says that PyTorch Tensor is numpy with GPU support).
+
+.. _PyTorch: //pytorch.org
+
+
 Installation
 ------------
 
