@@ -35,4 +35,4 @@ Use your favorite virtualenv system and install the below dependencies; quite st
 Execution
 ---------
 
-Just run `jupyter notebook`.
+Just run ``jupyter notebook``.
