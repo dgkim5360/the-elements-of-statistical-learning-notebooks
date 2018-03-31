@@ -22,6 +22,7 @@ Use your favorite virtualenv system and install the below dependencies; quite st
 * pandas
 * jupyter
 * pytorch
+* scikit-learn (optional, used in my own articles)
 
 .. code-block:: bash
 
